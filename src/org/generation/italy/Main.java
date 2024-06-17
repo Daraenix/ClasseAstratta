@@ -34,8 +34,8 @@ public static void main(String[] args) {
 		
 		ArrayList<Dispositivo> elencoDispositivi=new ArrayList<Dispositivo>();
 		
-		elencoDispositivi.add(f);		//polimorfismo: l'animale è un gatto
-		elencoDispositivi.add(p);		//polimorfismo: l'animale è un cane
+		elencoDispositivi.add(f);		
+		elencoDispositivi.add(p);		
 		elencoDispositivi.add(new Fisso("HP",64));
 		elencoDispositivi.add(new Portatile("Lenovo",16));
 		
