@@ -1,3 +1,9 @@
+/* PROVA DI VALUTAZIONE INTERMEDIA JAITA12
+ * 
+4. Fai un esempio di classe astratta e di una sua sottoclasse 
+(possibilmente non uno di quelli visti a lezione 😉);
+fai un esempio di polimorfismo in cui vengono utilizzate tali classi
+*/
 package org.generation.italy;
 
 import java.util.ArrayList;
